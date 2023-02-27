@@ -4,12 +4,12 @@
 
 - :zap: How to start? 
 
-- 0. apt update && apt upgrade (linux)
+-  apt update && apt upgrade (linux)
 
-- 1. pip install aiogram (all)
+- pip install aiogram (all)
 
-- 2. change token in config.py (all)
+- change token in config.py (all)
 
-- 3. python3 main.py or python main.py (all)
+- python3 main.py or python main.py (all)
 
 - :mailbox: My [Telegram](https://t.me/+YxvI9zUdaRs1NDUy)
